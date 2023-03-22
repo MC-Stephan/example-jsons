@@ -1,0 +1,62 @@
+[
+    {
+        "Key": "001",
+        "Kunde": "Acme Inc.",
+        "Abteilung": "IT",
+        "Qualifikation": "Software Engineer"
+    },
+    {
+        "Key": "002",
+        "Kunde": "XYZ Corporation",
+        "Abteilung": "Marketing",
+        "Qualifikation": "Digital Marketing Specialist"
+    },
+    {
+        "Key": "003",
+        "Kunde": "ABC Industries",
+        "Abteilung": "Operations",
+        "Qualifikation": "Logistics Coordinator"
+    },
+    {
+        "Key": "004",
+        "Kunde": "Acme Inc.",
+        "Abteilung": "Sales",
+        "Qualifikation": "Sales Representative"
+    },
+    {
+        "Key": "005",
+        "Kunde": "ABC Industries",
+        "Abteilung": "IT",
+        "Qualifikation": "Network Administrator"
+    },
+    {
+        "Key": "006",
+        "Kunde": "XYZ Corporation",
+        "Abteilung": "Operations",
+        "Qualifikation": "Operations Manager"
+    },
+    {
+        "Key": "007",
+        "Kunde": "Acme Inc.",
+        "Abteilung": "IT",
+        "Qualifikation": "Database Administrator"
+    },
+    {
+        "Key": "008",
+        "Kunde": "ABC Industries",
+        "Abteilung": "Marketing",
+        "Qualifikation": "Marketing Manager"
+    },
+    {
+        "Key": "009",
+        "Kunde": "XYZ Corporation",
+        "Abteilung": "IT",
+        "Qualifikation": "Software Developer"
+    },
+    {
+        "Key": "010",
+        "Kunde": "Acme Inc.",
+        "Abteilung": "Operations",
+        "Qualifikation": "Operations Analyst"
+    }
+]
